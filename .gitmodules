@@ -1,0 +1,6 @@
+[submodule "bobscorn-front"]
+	path = bobscorn-front
+	url = https://github.com/Nicogg-dev/bobscorn-front.git
+[submodule "bobscorn-back"]
+	path = bobscorn-back
+	url = https://github.com/Nicogg-dev/bobscorn-back.git
